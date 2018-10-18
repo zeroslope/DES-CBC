@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+node_modules/
+*.ipynb
+index-linux
+index-macos
+index-win.exe
